@@ -4,7 +4,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-class Articles:
+class Products:
     def __init__(self):
         self.options = webdriver.ChromeOptions()
         self.options.add_argument("start-maximized")
@@ -79,8 +79,8 @@ class Articles:
 
 
 if __name__ == "__main__":
-    art = Articles()
-    art.main({
+    prod = Products()
+    prod.main({
         "from": "20 Jan 2020",
         "to": "20 Mar 2020",
         "duration": "month",
