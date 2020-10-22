@@ -9,10 +9,10 @@
 ## Usage:
 
 1. Open your command prompt and cd to your cloned directory.
-2. Type following command in your cmd
-    python scraping_api.py
+2. Type following command in your cmd : 
+    ``` python scraping_api.py ```
 3. Open your browser and type the following url : 
-    http://localhost:5000/post?from=20%20Jan%202020&to=20%20Mar%202020&duration=month&category=Toys
+    ```http://localhost:5000/post?from=20%20Jan%202020&to=20%20Mar%202020&duration=month&category=Toys```
     
 ## URL parameter details : 
 
