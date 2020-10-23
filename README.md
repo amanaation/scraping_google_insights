@@ -6,7 +6,7 @@
 3. Clone the repository to your local repository.
 4. Run the following command, to install required dependencies
   ```pip install -r requirements.txt```
-5.Place the downloaded ChromeDriver as of the cloned github project folder
+5. Place the downloaded ChromeDriver in the cloned github project folder
 
 ## Usage:
 
