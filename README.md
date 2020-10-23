@@ -1,10 +1,12 @@
 # scraping_google_insights
 
 ## Installation
-
-1. Clone the repository to your local repository.
-2. Run the following command, to install required dependencies
+1. Download and Install Python 3.7.5
+2. Download ChromeDriver 86.0.4240.22 from : ``` https://sites.google.com/a/chromium.org/chromedriver/downloads```
+3. Clone the repository to your local repository.
+4. Run the following command, to install required dependencies
   ```pip install -r requirements.txt```
+5.Place the downloaded ChromeDriver as of the cloned github project folder
 
 ## Usage:
 
